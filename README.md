@@ -25,6 +25,8 @@ You can also contribute by:
 - Translating materials into different languages
 - Reporting issues or suggesting improvements
 
+  https://github.com/ghousebarq/LearnForAll/blob/main/Programming%20Basics%20for%20Future%20Developers
+
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE) - feel free to use, modify, and distribute it to help spread education.
 
